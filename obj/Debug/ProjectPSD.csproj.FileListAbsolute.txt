@@ -1,0 +1,669 @@
+R:\PSD\ProjectPSD\bin\ProjectPSD.dll.config
+R:\PSD\ProjectPSD\bin\ProjectPSD.dll
+R:\PSD\ProjectPSD\bin\ProjectPSD.pdb
+R:\PSD\ProjectPSD\bin\roslyn\csc.exe
+R:\PSD\ProjectPSD\bin\roslyn\csc.exe.config
+R:\PSD\ProjectPSD\bin\roslyn\csc.rsp
+R:\PSD\ProjectPSD\bin\roslyn\csi.exe
+R:\PSD\ProjectPSD\bin\roslyn\csi.exe.config
+R:\PSD\ProjectPSD\bin\roslyn\csi.rsp
+R:\PSD\ProjectPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+R:\PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+R:\PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\PSD\ProjectPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\PSD\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+R:\PSD\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+R:\PSD\ProjectPSD\bin\roslyn\Microsoft.Managed.Core.targets
+R:\PSD\ProjectPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\PSD\ProjectPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.AppContext.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Collections.Immutable.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Console.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Globalization.Calendars.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.IO.Compression.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.IO.FileSystem.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Net.Http.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Net.Sockets.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Reflection.Metadata.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.ValueTuple.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Xml.XmlDocument.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Xml.XPath.dll
+R:\PSD\ProjectPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+R:\PSD\ProjectPSD\bin\roslyn\vbc.exe
+R:\PSD\ProjectPSD\bin\roslyn\vbc.exe.config
+R:\PSD\ProjectPSD\bin\roslyn\vbc.rsp
+R:\PSD\ProjectPSD\bin\roslyn\VBCSCompiler.exe
+R:\PSD\ProjectPSD\bin\roslyn\VBCSCompiler.exe.config
+R:\PSD\ProjectPSD\bin\EntityFramework.dll
+R:\PSD\ProjectPSD\bin\EntityFramework.SqlServer.dll
+R:\PSD\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\PSD\ProjectPSD\bin\EntityFramework.xml
+R:\PSD\ProjectPSD\bin\EntityFramework.SqlServer.xml
+R:\PSD\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\PSD\ProjectPSD\obj\Debug\ProjectPSD.csprojAssemblyReference.cache
+R:\PSD\ProjectPSD\obj\Debug\ProjectPSD.csproj.CoreCompileInputs.cache
+R:\PSD\ProjectPSD\obj\Debug\ProjectPSD.csproj.CopyComplete
+R:\PSD\ProjectPSD\obj\Debug\ProjectPSD.dll
+R:\PSD\ProjectPSD\obj\Debug\ProjectPSD.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\ProjectPSD.dll.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\ProjectPSD.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\ProjectPSD.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\csc.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\csc.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\csc.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\csi.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\csi.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\csi.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.AppContext.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Collections.Immutable.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Console.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Globalization.Calendars.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.IO.Compression.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.IO.FileSystem.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Net.Http.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Net.Sockets.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.ValueTuple.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Xml.XPath.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\vbc.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\vbc.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\vbc.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\VBCSCompiler.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\roslyn\VBCSCompiler.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\EntityFramework.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\EntityFramework.SqlServer.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\EntityFramework.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\EntityFramework.SqlServer.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\obj\Debug\ProjectPSD.csprojAssemblyReference.cache
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\obj\Debug\ProjectPSD.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\obj\Debug\ProjectPSD.csproj.CopyComplete
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\obj\Debug\ProjectPSD.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD\ProjectPSD\obj\Debug\ProjectPSD.pdb
+R:\PSD Project\ProjectPSD\bin\ProjectPSD.dll.config
+R:\PSD Project\ProjectPSD\bin\ProjectPSD.dll
+R:\PSD Project\ProjectPSD\bin\ProjectPSD.pdb
+R:\PSD Project\ProjectPSD\bin\roslyn\csc.exe
+R:\PSD Project\ProjectPSD\bin\roslyn\csc.exe.config
+R:\PSD Project\ProjectPSD\bin\roslyn\csc.rsp
+R:\PSD Project\ProjectPSD\bin\roslyn\csi.exe
+R:\PSD Project\ProjectPSD\bin\roslyn\csi.exe.config
+R:\PSD Project\ProjectPSD\bin\roslyn\csi.rsp
+R:\PSD Project\ProjectPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\PSD Project\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\Microsoft.Managed.Core.targets
+R:\PSD Project\ProjectPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\PSD Project\ProjectPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.AppContext.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Collections.Immutable.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Console.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Globalization.Calendars.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.IO.Compression.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.IO.FileSystem.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Net.Http.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Net.Sockets.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Reflection.Metadata.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.ValueTuple.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Xml.XmlDocument.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Xml.XPath.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+R:\PSD Project\ProjectPSD\bin\roslyn\vbc.exe
+R:\PSD Project\ProjectPSD\bin\roslyn\vbc.exe.config
+R:\PSD Project\ProjectPSD\bin\roslyn\vbc.rsp
+R:\PSD Project\ProjectPSD\bin\roslyn\VBCSCompiler.exe
+R:\PSD Project\ProjectPSD\bin\roslyn\VBCSCompiler.exe.config
+R:\PSD Project\ProjectPSD\bin\EntityFramework.dll
+R:\PSD Project\ProjectPSD\bin\EntityFramework.SqlServer.dll
+R:\PSD Project\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\PSD Project\ProjectPSD\bin\EntityFramework.xml
+R:\PSD Project\ProjectPSD\bin\EntityFramework.SqlServer.xml
+R:\PSD Project\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\PSD Project\ProjectPSD\obj\Debug\ProjectPSD.csprojAssemblyReference.cache
+R:\PSD Project\ProjectPSD\obj\Debug\ProjectPSD.csproj.CoreCompileInputs.cache
+R:\PSD Project\ProjectPSD\obj\Debug\ProjectPSD.csproj.CopyComplete
+R:\PSD Project\ProjectPSD\obj\Debug\ProjectPSD.dll
+R:\PSD Project\ProjectPSD\obj\Debug\ProjectPSD.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\ProjectPSD.dll.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\ProjectPSD.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\ProjectPSD.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\csc.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\csc.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\csc.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\csi.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\csi.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\csi.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.AppContext.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Collections.Immutable.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Console.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Globalization.Calendars.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.IO.Compression.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.IO.FileSystem.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Net.Http.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Net.Sockets.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.ValueTuple.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Xml.XPath.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\vbc.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\vbc.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\vbc.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\VBCSCompiler.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\roslyn\VBCSCompiler.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\EntityFramework.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\EntityFramework.SqlServer.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\EntityFramework.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\EntityFramework.SqlServer.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\obj\Debug\ProjectPSD.csprojAssemblyReference.cache
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\obj\Debug\ProjectPSD.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\obj\Debug\ProjectPSD.csproj.CopyComplete
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\obj\Debug\ProjectPSD.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\obj\Debug\ProjectPSD.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportSource.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.Shared.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.Web.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\PSD Lyvia\Project PSD 10 06 2021\ProjectPSD\bin\stdole.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\ProjectPSD.dll.config
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\ProjectPSD.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\ProjectPSD.pdb
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\csc.exe
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\csc.exe.config
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\csc.rsp
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\csi.exe
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\csi.exe.config
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\csi.rsp
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\Microsoft.Managed.Core.targets
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.AppContext.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Collections.Immutable.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Console.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Globalization.Calendars.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.IO.Compression.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.IO.FileSystem.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Net.Http.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Net.Sockets.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Reflection.Metadata.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.ValueTuple.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Xml.XmlDocument.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Xml.XPath.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\vbc.exe
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\vbc.exe.config
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\vbc.rsp
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\VBCSCompiler.exe
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\roslyn\VBCSCompiler.exe.config
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\EntityFramework.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\EntityFramework.SqlServer.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\stdole.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\EntityFramework.xml
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\EntityFramework.SqlServer.xml
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\ProjectPSD Final\Project PSD\ProjectPSD\obj\Debug\ProjectPSD.csprojAssemblyReference.cache
+R:\ProjectPSD Final\Project PSD\ProjectPSD\obj\Debug\ProjectPSD.csproj.CoreCompileInputs.cache
+R:\ProjectPSD Final\Project PSD\ProjectPSD\obj\Debug\ProjectPSD.csproj.CopyComplete
+R:\ProjectPSD Final\Project PSD\ProjectPSD\obj\Debug\ProjectPSD.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\obj\Debug\ProjectPSD.pdb
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.CrystalReports.Engine.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.ReportSource.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.Shared.dll
+R:\ProjectPSD Final\Project PSD\ProjectPSD\bin\CrystalDecisions.Web.dll
+R:\ProjectPSD Test\ProjectPSD\bin\ProjectPSD.dll.config
+R:\ProjectPSD Test\ProjectPSD\bin\ProjectPSD.dll
+R:\ProjectPSD Test\ProjectPSD\bin\ProjectPSD.pdb
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\csc.exe
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\csc.exe.config
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\csc.rsp
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\csi.exe
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\csi.exe.config
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\csi.rsp
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\Microsoft.Managed.Core.targets
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.AppContext.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Collections.Immutable.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Console.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Globalization.Calendars.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.IO.Compression.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.IO.FileSystem.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Net.Http.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Net.Sockets.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Reflection.Metadata.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.ValueTuple.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Xml.XmlDocument.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Xml.XPath.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\vbc.exe
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\vbc.exe.config
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\vbc.rsp
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\VBCSCompiler.exe
+R:\ProjectPSD Test\ProjectPSD\bin\roslyn\VBCSCompiler.exe.config
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.CrystalReports.Engine.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportSource.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.Shared.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.Web.dll
+R:\ProjectPSD Test\ProjectPSD\bin\EntityFramework.dll
+R:\ProjectPSD Test\ProjectPSD\bin\EntityFramework.SqlServer.dll
+R:\ProjectPSD Test\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+R:\ProjectPSD Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+R:\ProjectPSD Test\ProjectPSD\bin\stdole.dll
+R:\ProjectPSD Test\ProjectPSD\bin\EntityFramework.xml
+R:\ProjectPSD Test\ProjectPSD\bin\EntityFramework.SqlServer.xml
+R:\ProjectPSD Test\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\ProjectPSD Test\ProjectPSD\obj\Debug\ProjectPSD.csprojAssemblyReference.cache
+R:\ProjectPSD Test\ProjectPSD\obj\Debug\ProjectPSD.csproj.CoreCompileInputs.cache
+R:\ProjectPSD Test\ProjectPSD\obj\Debug\ProjectPSD.csproj.CopyComplete
+R:\ProjectPSD Test\ProjectPSD\obj\Debug\ProjectPSD.dll
+R:\ProjectPSD Test\ProjectPSD\obj\Debug\ProjectPSD.pdb
+C:\Users\Ronny\Desktop\ProjectPSD\bin\ProjectPSD.dll.config
+C:\Users\Ronny\Desktop\ProjectPSD\bin\ProjectPSD.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\ProjectPSD.pdb
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\csc.exe
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\csc.exe.config
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\csc.rsp
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\csi.exe
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\csi.exe.config
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\csi.rsp
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.AppContext.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Console.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Net.Http.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\vbc.exe
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\vbc.exe.config
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\vbc.rsp
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ronny\Desktop\ProjectPSD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.Shared.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.Web.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\EntityFramework.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\EntityFramework.SqlServer.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\stdole.dll
+C:\Users\Ronny\Desktop\ProjectPSD\bin\EntityFramework.xml
+C:\Users\Ronny\Desktop\ProjectPSD\bin\EntityFramework.SqlServer.xml
+C:\Users\Ronny\Desktop\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ronny\Desktop\ProjectPSD\obj\Debug\ProjectPSD.csprojAssemblyReference.cache
+C:\Users\Ronny\Desktop\ProjectPSD\obj\Debug\ProjectPSD.csproj.CoreCompileInputs.cache
+C:\Users\Ronny\Desktop\ProjectPSD\obj\Debug\ProjectPSD.csproj.CopyComplete
+C:\Users\Ronny\Desktop\ProjectPSD\obj\Debug\ProjectPSD.dll
+C:\Users\Ronny\Desktop\ProjectPSD\obj\Debug\ProjectPSD.pdb
+R:\Project Test\ProjectPSD\bin\ProjectPSD.dll.config
+R:\Project Test\ProjectPSD\bin\ProjectPSD.dll
+R:\Project Test\ProjectPSD\bin\ProjectPSD.pdb
+R:\Project Test\ProjectPSD\bin\roslyn\csc.exe
+R:\Project Test\ProjectPSD\bin\roslyn\csc.exe.config
+R:\Project Test\ProjectPSD\bin\roslyn\csc.rsp
+R:\Project Test\ProjectPSD\bin\roslyn\csi.exe
+R:\Project Test\ProjectPSD\bin\roslyn\csi.exe.config
+R:\Project Test\ProjectPSD\bin\roslyn\csi.rsp
+R:\Project Test\ProjectPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\Project Test\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\Project Test\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+R:\Project Test\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\Project Test\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+R:\Project Test\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\Project Test\ProjectPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\Project Test\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+R:\Project Test\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+R:\Project Test\ProjectPSD\bin\roslyn\Microsoft.Managed.Core.targets
+R:\Project Test\ProjectPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\Project Test\ProjectPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.AppContext.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Collections.Immutable.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Console.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Globalization.Calendars.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.IO.Compression.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.IO.FileSystem.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Net.Http.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Net.Sockets.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Reflection.Metadata.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.ValueTuple.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Xml.XmlDocument.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Xml.XPath.dll
+R:\Project Test\ProjectPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+R:\Project Test\ProjectPSD\bin\roslyn\vbc.exe
+R:\Project Test\ProjectPSD\bin\roslyn\vbc.exe.config
+R:\Project Test\ProjectPSD\bin\roslyn\vbc.rsp
+R:\Project Test\ProjectPSD\bin\roslyn\VBCSCompiler.exe
+R:\Project Test\ProjectPSD\bin\roslyn\VBCSCompiler.exe.config
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.CrystalReports.Engine.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportSource.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.Shared.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.Web.dll
+R:\Project Test\ProjectPSD\bin\EntityFramework.dll
+R:\Project Test\ProjectPSD\bin\EntityFramework.SqlServer.dll
+R:\Project Test\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+R:\Project Test\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+R:\Project Test\ProjectPSD\bin\stdole.dll
+R:\Project Test\ProjectPSD\bin\EntityFramework.xml
+R:\Project Test\ProjectPSD\bin\EntityFramework.SqlServer.xml
+R:\Project Test\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\Project Test\ProjectPSD\obj\Debug\ProjectPSD.csprojAssemblyReference.cache
+R:\Project Test\ProjectPSD\obj\Debug\ProjectPSD.csproj.CoreCompileInputs.cache
+R:\Project Test\ProjectPSD\obj\Debug\ProjectPSD.csproj.CopyComplete
+R:\Project Test\ProjectPSD\obj\Debug\ProjectPSD.dll
+R:\Project Test\ProjectPSD\obj\Debug\ProjectPSD.pdb
+R:\Project Test Final\ProjectPSD\bin\ProjectPSD.dll.config
+R:\Project Test Final\ProjectPSD\bin\ProjectPSD.dll
+R:\Project Test Final\ProjectPSD\bin\ProjectPSD.pdb
+R:\Project Test Final\ProjectPSD\bin\roslyn\csc.exe
+R:\Project Test Final\ProjectPSD\bin\roslyn\csc.exe.config
+R:\Project Test Final\ProjectPSD\bin\roslyn\csc.rsp
+R:\Project Test Final\ProjectPSD\bin\roslyn\csi.exe
+R:\Project Test Final\ProjectPSD\bin\roslyn\csi.exe.config
+R:\Project Test Final\ProjectPSD\bin\roslyn\csi.rsp
+R:\Project Test Final\ProjectPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\Project Test Final\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\Microsoft.Managed.Core.targets
+R:\Project Test Final\ProjectPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\Project Test Final\ProjectPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.AppContext.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Collections.Immutable.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Console.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Globalization.Calendars.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.IO.Compression.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.IO.FileSystem.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Net.Http.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Net.Sockets.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Reflection.Metadata.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.ValueTuple.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Xml.XmlDocument.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Xml.XPath.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+R:\Project Test Final\ProjectPSD\bin\roslyn\vbc.exe
+R:\Project Test Final\ProjectPSD\bin\roslyn\vbc.exe.config
+R:\Project Test Final\ProjectPSD\bin\roslyn\vbc.rsp
+R:\Project Test Final\ProjectPSD\bin\roslyn\VBCSCompiler.exe
+R:\Project Test Final\ProjectPSD\bin\roslyn\VBCSCompiler.exe.config
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.CrystalReports.Engine.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportSource.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.Shared.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.Web.dll
+R:\Project Test Final\ProjectPSD\bin\EntityFramework.dll
+R:\Project Test Final\ProjectPSD\bin\EntityFramework.SqlServer.dll
+R:\Project Test Final\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+R:\Project Test Final\ProjectPSD\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+R:\Project Test Final\ProjectPSD\bin\stdole.dll
+R:\Project Test Final\ProjectPSD\bin\EntityFramework.xml
+R:\Project Test Final\ProjectPSD\bin\EntityFramework.SqlServer.xml
+R:\Project Test Final\ProjectPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\Project Test Final\ProjectPSD\obj\Debug\ProjectPSD.csprojAssemblyReference.cache
+R:\Project Test Final\ProjectPSD\obj\Debug\ProjectPSD.csproj.CoreCompileInputs.cache
+R:\Project Test Final\ProjectPSD\obj\Debug\ProjectPSD.csproj.CopyComplete
+R:\Project Test Final\ProjectPSD\obj\Debug\ProjectPSD.dll
+R:\Project Test Final\ProjectPSD\obj\Debug\ProjectPSD.pdb

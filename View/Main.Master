@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="ProjectPSD.View.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        .nav {
+            margin-right: 20px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <h1>TAxAidi</h1>
+        </header>
+        <div>
+            <asp:LinkButton CssClass="nav" ID="linkHome" Text="Home" runat="server" OnClick="linkHome_Click" />
+            <asp:LinkButton CssClass="nav" ID="linkLogin" Text="Login" runat="server" OnClick="linkLogin_Click" />
+            <asp:LinkButton CssClass="nav" ID="linkRegister" Text="Register" runat="server" OnClick="linkRegister_Click" />
+            <asp:LinkButton CssClass="nav" ID="linkTransactions" Text="Transactions" runat="server" OnClick="linkTransactions_Click" />
+            <asp:LinkButton CssClass="nav" ID="linkAddShow" Text="Add Show" runat="server" OnClick="linkAddShow_Click" />
+            <asp:LinkButton CssClass="nav" ID="linkReports" Text="Reports" runat="server" OnClick="linkReports_Click" />
+            <asp:LinkButton CssClass="nav" ID="linkAccount" Text="Account" runat="server" OnClick="linkAccount_Click" />
+            <asp:LinkButton CssClass="nav" ID="linkRedeem" Text="Redeem Token" runat="server" OnClick="linkRedeem_Click" />
+            <asp:LinkButton CssClass="nav" ID="linkLogout" Text="Logout" runat="server" OnClick="linkLogout_Click" />
+            <asp:TextBox CssClass="nav" ID="txtSearch" runat="server" />
+            <asp:Button ID="btnSearch" Text="Search" runat="server" OnClick="btnSearch_Click"/>
+        </div>
+        <br />
+        <div>
+            <asp:Label Text="Current Logged-in User: " runat="server" />
+            <asp:Label ID="lblUser" Text="" runat="server" />
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer>
+            Copyright &copy; 2021
+        </footer>
+    </form>
+</body>
+</html>
